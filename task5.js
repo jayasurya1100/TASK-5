@@ -1,4 +1,4 @@
-//Anonymous Function & IIFL:
+//Anonymous Function & IIFE:
 
 // a. Odd Number In Array(Anonymous Function):
 
